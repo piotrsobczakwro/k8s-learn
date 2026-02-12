@@ -142,10 +142,15 @@ By following this learning path, you will:
 
 ## 🚀 Getting Started
 
-1. Start with [Lesson 1: Basic Concepts](lessons/01-basic-concepts/README.md)
-2. Follow the lessons in order
-3. Complete exercises and examples in each lesson
-4. Practice with hands-on labs
+### Quick Start
+Want to get hands-on immediately? Try our **[Quick Start Guide](QUICKSTART.md)** to deploy your first app in 30 minutes!
+
+### Structured Learning Path
+1. Start with **[Lesson 1: Basic Concepts](lessons/01-basic-concepts/README.md)**
+2. Follow the lessons in order (Beginner → Intermediate → Advanced → Expert)
+3. Complete **[Exercises](EXERCISES.md)** in each section
+4. Practice with hands-on examples
+5. Explore additional **[Resources](RESOURCES.md)**
 
 ## 📖 Prerequisites
 
@@ -153,12 +158,47 @@ Before starting, you should have:
 - Basic understanding of containers (Docker)
 - Familiarity with command-line interfaces
 - Basic networking concepts
-- A computer with internet access
+- A computer with internet access (4GB+ RAM recommended)
+
+## 📚 Additional Resources
+
+- **[Quick Start Guide](QUICKSTART.md)** - Get started in 30 minutes
+- **[Exercises](EXERCISES.md)** - Hands-on exercises from beginner to expert
+- **[Resources](RESOURCES.md)** - Curated learning materials, tools, and community links
+
+## 🎓 Certifications
+
+This learning path prepares you for:
+- **CKAD** (Certified Kubernetes Application Developer)
+- **CKA** (Certified Kubernetes Administrator)
+- **CKS** (Certified Kubernetes Security Specialist)
 
 ## 🤝 Contributing
 
 This is a personal learning repository. Feel free to fork and adapt for your own learning journey.
 
+## 📝 Progress Tracking
+
+Track your progress through the lessons:
+
+**Beginner** (Lessons 1-2):
+- [ ] Lesson 1: Basic Concepts
+- [ ] Lesson 2: Getting Started
+
+**Intermediate** (Lessons 3-5):
+- [ ] Lesson 3: Core Workloads
+- [ ] Lesson 4: Configuration and Storage
+- [ ] Lesson 5: Networking
+
+**Advanced** (Lessons 6-8):
+- [ ] Lesson 6: Advanced Deployments
+- [ ] Lesson 7: Observability
+- [ ] Lesson 8: Security
+
+**Expert** (Lessons 9-10):
+- [ ] Lesson 9: Production Best Practices
+- [ ] Lesson 10: Advanced Topics
+
 ---
 
-**Happy Learning! 🎓**
+**Happy Learning! 🚀 Welcome to your Kubernetes journey!**
